@@ -3,7 +3,7 @@
 def cuentaArboles(down, right):
     arbolesEncontrados = 0
     j = 0
-    for i in range(0, len(terreno)):
+    for i in range(0, len(terreno), down):
         i = i + down
         j = j + right
         print(str(len(terreno))+" - "+ str(i) +" - "+ str(j))
@@ -16,7 +16,7 @@ def cuentaArboles(down, right):
     return arbolesEncontrados
                 
 terreno = []
-with open('sample.in', 'r') as file:
+with open('problem.in', 'r') as file:
     terreno = [linea.rstrip('\n') for linea in file]
 
-print(str(cuentaArboles(1,1)*cuentaArboles(1,3)*cuentaArboles(1,5)*cuentaArboles(1,7)*cuentaArboles(2,1)))
+print(str(cuentaArboles(1,3)))
