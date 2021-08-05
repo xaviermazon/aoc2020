@@ -4,13 +4,13 @@ AOC 2020
 Status: 
 -------
 
- - Codigo comentado: <span style="color:red">__NO__</span>
- - Repositorio limpio:<span style="color:red"> __NO__</span>
+ - Codigo comentado: __NO__
+ - Repositorio limpio: __NO__
  - Dias: __3/25__
  
  __| Dias | Parte 1      | Parte2       |
  |------|--------------|--------------|__
- __| 1    |__ <span style="color:green">SI</span>           | <span style="color:green">SI</span>           |
- __| 2    |__ <span style="color:green">SI</span>           | <span style="color:green">SI</span>           |
- __| 3    |__ <span style="color:green">SI</span>           | <span style="color:green">SI</span>           |
+ __| 1    |__ SI           | SI           |
+ __| 2    |__ SI           | SI           |
+ __| 3    |__ SI           | SI           |
  __| 4    | Proximamente | Proximamente |__
