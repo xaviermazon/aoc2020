@@ -16,4 +16,4 @@ Tabla de problemas realizados
  | __1__    | :white_check_mark:             | :white_check_mark:           |
  | __2__    | :white_check_mark:          | :white_check_mark:          |
  | __3__    | :white_check_mark:          | :white_check_mark:         |
- | __4__    | :curly_loop:| Proximamente |
+ | __4__    | :white_check_mark: | :curly_loop: |
